@@ -44,10 +44,10 @@ int main (int argc, char **argv)
 }
 ```
 
-So after some reading a playing I notcied on this problem you could cause it to print out as much memory as you wanted as long as the first thing you passed it was a %x. Which trys to print a pointer, after that you can use %s as many times as you want to look for string data hiding up the memory. 
+So after some reading a playing I noticed on this problem you could cause it to print out as much memory as you wanted as long as the first thing you passed it was a %x. Which try's to print a pointer, after that you can use %s as many times as you want to look for string data hiding up the memory. 
 
-After I leared this I found the short hand `%[#]$s` where `[#]` can be w/e number location you want so you can pass say `%15$s` to the program and it will give you the 15th spot in memory. 
+After I learned this I found the short hand `%[#]$s` where `[#]` can be w/e number location you want so you can pass say `%15$s` to the program and it will give you the 15th spot in memory. 
 
-I continuted to play till I found the flag with `%37$s`; 
+I continued to play till I found the flag with `%37$s`; 
 
 Flag: `picoCTF{str1nG_CH3353_159c98a8}`
