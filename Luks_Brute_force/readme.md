@@ -4,7 +4,7 @@
 
 `V1.0 Jan 2019 slack @malikaz | github @malikazz | https://malikaz.com`
 
-![YegSec Logo](../branding/YegSecLogoWhite.png)
+![YegSec Logo](../branding/YegSecCTF.png)
 
 ### Table of Contents
 - Introduction
