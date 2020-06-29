@@ -2,6 +2,7 @@
 
 New post push older posts down so top is newest bottom oldest. If you have questions or comments feel free to hit me up.
 
+[CTF Write Ups](https://github.com/Malikazz/YegSecCTF-CTFs/readme.md)
 
 [Format_String_Vuln](Format_String_Vuln/readme.md)
 
